@@ -1,0 +1,2 @@
+# timetable_scheduling_genetic_algorithms
+TimeTable  Scheduling Generation using Genetic ALgorithmn
