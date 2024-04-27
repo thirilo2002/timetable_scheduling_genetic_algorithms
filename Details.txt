@@ -1,13 +1,25 @@
 ! student  id  name  Courses
 ! Professor pid  Courselist 
 ! Class room
-! course course Proffesor_list 
+! course course Proffesor_list
+<course> DIP 23 4 </course>
+<course> MFD 23 4 </course>
+<course> DL 24 4 </course>
+<course> IIOT 21 4 </course>
+<course> ML 25 4 </course>
+<course> AI 25 4 </course>
+<course> RL 28 4 </course>
+<course> CN 28 3 </course>
+<course> ITB 20 4 </course>
+<course> PC 22 4 </course>
+<course> COA 20 4 </course>
+<course> DBMS 26 3 </course>
 <stud> Cs21b1074 Thirilo DIP,DL,AI,PC </stud>
 <stud> Cs21b1054 ajay RL,IIOT,DL,PC,AI </stud>
 <stud> Cs21b1064 vijay IIOT,AI,PC,MFD </stud>
 <stud> Cs20b1024 ajith IIOT,AI,DBMS,COA </stud>
 <stud> Cs20b1084 kamal AI,ITB,DBMS,COA </stud>
-!<stud> Cs21b1094 keethika DIP,DL,PC,ML,MFD </stud>
+<stud> Cs21b1094 keethika DIP,DL,PC,ML,MFD </stud>
 <prof> 23 masilamani DIP </prof>
 <prof> 24 umarani DL </prof>
 <prof> 25 ram_padhy AI,ML </prof>
@@ -22,22 +34,11 @@
 <class> h3 </class>
 <class> h6 </class>
 <class> h5 </class>
-<course> DIP 23 4 </course>
-<course> MFD 23 4 </course>
-<course> DL 24 4 </course>
-<course> IIOT 21 4 </course>
-<course> ML 25 4 </course>
-<course> AI 25 4 </course>
-<course> RL 28 4 </course>
-<course> CN 28 3 </course>
-<course> ITB 20 4 </course>
-<course> PC 22 4 </course>
-<course> COA 20 4 </course>
-<course> DBMS 26 3 </course>
+<class> h8 </class>
 
 
 
 
 
 
-deepithrilo
+

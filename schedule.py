@@ -1,6 +1,6 @@
 import random
 Week_day=5
-No_of_class=10
+No_of_class=9
 class Data :
     def __init__(self,student,professor,course,room):
         self.student=student
