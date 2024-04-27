@@ -1,11 +1,11 @@
 # timetable_scheduling_genetic_algorithms
-# TimeTable  Scheduling Generation using Genetic ALgorithmn
+## TimeTable  Scheduling Generation using Genetic ALgorithmn
 
 # The Main.py contains Main code
 Genetic_algo part
 Basically We will randomly populate the population
 Then Fitness function is used to sort Individual based on their Quality
-Criteria for Fitness Function
+Criteria for Fitness Function\n
       Hard Constraints:
       No student can have two class at a same time
       No  Teachers have to teach class at a same time
