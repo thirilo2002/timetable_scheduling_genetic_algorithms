@@ -3,8 +3,8 @@
 
 # The Main.py contains Main code
 Genetic_algo part
-Basically We will randomly populate the population
-Then Fitness function is used to sort Individual based on their Quality
+Basically We will randomly populate the population.
+Then Fitness function is used to sort Individual based on their Quality.
 Criteria for Fitness Function\n
       Hard Constraints:
       No student can have two class at a same time
