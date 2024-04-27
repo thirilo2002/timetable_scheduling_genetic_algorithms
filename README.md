@@ -1,4 +1,4 @@
-# timetable_scheduling_genetic_algorithms
+`# timetable_scheduling_genetic_algorithms
 #TimeTable  Scheduling Generation using Genetic ALgorithmn
 
 #The Main.py contains Main code
@@ -29,6 +29,6 @@ loop
 loop
 
 Solution is passed to simulated annealing to remove conflicts like having two class of same course on same day
-simulated annealing will provide solution we will try to print it
+simulated annealing will provide solution we will try to print it`
 
 
